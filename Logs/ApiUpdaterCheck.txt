@@ -1,0 +1,2576 @@
+[api-updater (non-obsolete-error-filter)] 29/10/2021 14:51:21 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 1130.542ms
+moved types parse time: 144ms
+candidates parse time : 8ms
+C# parse time         : 528ms
+candidates check time : 133ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 14:51:36 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 221.317ms
+moved types parse time: 142ms
+candidates parse time : 6ms
+C# parse time         : 597ms
+candidates check time : 111ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 14:52:27 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 216.923ms
+moved types parse time: 153ms
+candidates parse time : 6ms
+C# parse time         : 449ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 14:52:42 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 236.62ms
+moved types parse time: 134ms
+candidates parse time : 6ms
+C# parse time         : 366ms
+candidates check time : 68ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 14:52:57 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 229.124ms
+moved types parse time: 153ms
+candidates parse time : 5ms
+C# parse time         : 418ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:05:40 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.968ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 414ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:06:49 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 192.994ms
+moved types parse time: 138ms
+candidates parse time : 9ms
+C# parse time         : 435ms
+candidates check time : 98ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:07:04 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.967ms
+moved types parse time: 159ms
+candidates parse time : 5ms
+C# parse time         : 484ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:07:12 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.264ms
+moved types parse time: 138ms
+candidates parse time : 6ms
+C# parse time         : 432ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:07:34 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 245.575ms
+moved types parse time: 155ms
+candidates parse time : 6ms
+C# parse time         : 440ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:12:13 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.615ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 447ms
+candidates check time : 83ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:14:29 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 195.525ms
+moved types parse time: 133ms
+candidates parse time : 5ms
+C# parse time         : 477ms
+candidates check time : 84ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 29/10/2021 15:14:57 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.094ms
+moved types parse time: 147ms
+candidates parse time : 6ms
+C# parse time         : 470ms
+candidates check time : 83ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:30:52 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 389.777ms
+moved types parse time: 147ms
+candidates parse time : 6ms
+C# parse time         : 532ms
+candidates check time : 357ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:31:09 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 227.386ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 547ms
+candidates check time : 340ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:31:42 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 213.127ms
+moved types parse time: 135ms
+candidates parse time : 6ms
+C# parse time         : 486ms
+candidates check time : 306ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:31:50 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141.223ms
+moved types parse time: 139ms
+candidates parse time : 7ms
+C# parse time         : 497ms
+candidates check time : 321ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:32:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.721ms
+moved types parse time: 153ms
+candidates parse time : 7ms
+C# parse time         : 563ms
+candidates check time : 341ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:32:05 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 128.288ms
+moved types parse time: 142ms
+candidates parse time : 5ms
+C# parse time         : 479ms
+candidates check time : 339ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:32:45 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 221.439ms
+moved types parse time: 137ms
+candidates parse time : 6ms
+C# parse time         : 484ms
+candidates check time : 168ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 14:36:08 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 223.41ms
+moved types parse time: 149ms
+candidates parse time : 5ms
+C# parse time         : 532ms
+candidates check time : 108ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 01/11/2021 15:06:48 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.711ms
+moved types parse time: 136ms
+candidates parse time : 7ms
+C# parse time         : 455ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:34:40 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 276.373ms
+moved types parse time: 141ms
+candidates parse time : 6ms
+C# parse time         : 476ms
+candidates check time : 111ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:35:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.074ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 487ms
+candidates check time : 122ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:36:38 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.062ms
+moved types parse time: 142ms
+candidates parse time : 6ms
+C# parse time         : 447ms
+candidates check time : 129ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:53:04 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 212.266ms
+moved types parse time: 187ms
+candidates parse time : 5ms
+C# parse time         : 444ms
+candidates check time : 69ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:53:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 143.141ms
+moved types parse time: 141ms
+candidates parse time : 6ms
+C# parse time         : 542ms
+candidates check time : 154ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:53:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.988ms
+moved types parse time: 141ms
+candidates parse time : 6ms
+C# parse time         : 526ms
+candidates check time : 194ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:53:47 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 204.179ms
+moved types parse time: 163ms
+candidates parse time : 5ms
+C# parse time         : 535ms
+candidates check time : 159ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:53:54 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 207.457ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 514ms
+candidates check time : 145ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:54:26 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.526ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 558ms
+candidates check time : 151ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:54:49 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 238.12ms
+moved types parse time: 138ms
+candidates parse time : 7ms
+C# parse time         : 567ms
+candidates check time : 163ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:55:51 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 284.414ms
+moved types parse time: 137ms
+candidates parse time : 18ms
+C# parse time         : 544ms
+candidates check time : 135ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:55:56 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 131.86ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 497ms
+candidates check time : 147ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:56:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 141.936ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 506ms
+candidates check time : 149ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:56:26 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.148ms
+moved types parse time: 133ms
+candidates parse time : 6ms
+C# parse time         : 509ms
+candidates check time : 152ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:58:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.733ms
+moved types parse time: 149ms
+candidates parse time : 5ms
+C# parse time         : 508ms
+candidates check time : 156ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 09:59:00 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.692ms
+moved types parse time: 138ms
+candidates parse time : 6ms
+C# parse time         : 547ms
+candidates check time : 135ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:03:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.776ms
+moved types parse time: 147ms
+candidates parse time : 6ms
+C# parse time         : 601ms
+candidates check time : 154ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:03:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 465.393ms
+moved types parse time: 144ms
+candidates parse time : 6ms
+C# parse time         : 497ms
+candidates check time : 133ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:03:31 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.649ms
+moved types parse time: 148ms
+candidates parse time : 7ms
+C# parse time         : 527ms
+candidates check time : 153ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:03:40 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142.163ms
+moved types parse time: 154ms
+candidates parse time : 6ms
+C# parse time         : 568ms
+candidates check time : 151ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:03:46 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 149.626ms
+moved types parse time: 142ms
+candidates parse time : 11ms
+C# parse time         : 500ms
+candidates check time : 134ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:04:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.811ms
+moved types parse time: 146ms
+candidates parse time : 8ms
+C# parse time         : 518ms
+candidates check time : 154ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:04:20 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.13ms
+moved types parse time: 185ms
+candidates parse time : 6ms
+C# parse time         : 561ms
+candidates check time : 177ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:04:56 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 184.597ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 520ms
+candidates check time : 193ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:05:37 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.028ms
+moved types parse time: 152ms
+candidates parse time : 6ms
+C# parse time         : 520ms
+candidates check time : 155ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:05:52 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163.012ms
+moved types parse time: 152ms
+candidates parse time : 6ms
+C# parse time         : 533ms
+candidates check time : 145ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:06:03 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.376ms
+moved types parse time: 155ms
+candidates parse time : 6ms
+C# parse time         : 555ms
+candidates check time : 145ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:06:21 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.817ms
+moved types parse time: 144ms
+candidates parse time : 5ms
+C# parse time         : 562ms
+candidates check time : 148ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:06:24 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.967ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 489ms
+candidates check time : 147ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:06:38 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 189.655ms
+moved types parse time: 135ms
+candidates parse time : 6ms
+C# parse time         : 499ms
+candidates check time : 144ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:06:44 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 144.717ms
+moved types parse time: 128ms
+candidates parse time : 5ms
+C# parse time         : 539ms
+candidates check time : 132ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:11:28 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 190.048ms
+moved types parse time: 161ms
+candidates parse time : 6ms
+C# parse time         : 621ms
+candidates check time : 166ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:11:50 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.841ms
+moved types parse time: 161ms
+candidates parse time : 6ms
+C# parse time         : 581ms
+candidates check time : 150ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:12:03 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 208.031ms
+moved types parse time: 151ms
+candidates parse time : 6ms
+C# parse time         : 510ms
+candidates check time : 131ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:12:24 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 148.471ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 543ms
+candidates check time : 152ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:12:41 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.726ms
+moved types parse time: 148ms
+candidates parse time : 6ms
+C# parse time         : 560ms
+candidates check time : 147ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:12:49 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.843ms
+moved types parse time: 164ms
+candidates parse time : 5ms
+C# parse time         : 557ms
+candidates check time : 148ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:12:59 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 126.206ms
+moved types parse time: 147ms
+candidates parse time : 6ms
+C# parse time         : 561ms
+candidates check time : 166ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:14:20 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.829ms
+moved types parse time: 163ms
+candidates parse time : 5ms
+C# parse time         : 542ms
+candidates check time : 172ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:14:45 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.286ms
+moved types parse time: 159ms
+candidates parse time : 7ms
+C# parse time         : 616ms
+candidates check time : 157ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:15:02 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.944ms
+moved types parse time: 173ms
+candidates parse time : 13ms
+C# parse time         : 560ms
+candidates check time : 143ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:19:02 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 195.18ms
+moved types parse time: 151ms
+candidates parse time : 6ms
+C# parse time         : 555ms
+candidates check time : 145ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:19:46 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.838ms
+moved types parse time: 145ms
+candidates parse time : 5ms
+C# parse time         : 587ms
+candidates check time : 156ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:20:02 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 192.948ms
+moved types parse time: 149ms
+candidates parse time : 6ms
+C# parse time         : 508ms
+candidates check time : 134ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:20:09 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 139.543ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 496ms
+candidates check time : 146ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:20:40 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.104ms
+moved types parse time: 143ms
+candidates parse time : 5ms
+C# parse time         : 516ms
+candidates check time : 151ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:20:44 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 186.886ms
+moved types parse time: 142ms
+candidates parse time : 6ms
+C# parse time         : 510ms
+candidates check time : 136ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:21:39 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 217.875ms
+moved types parse time: 148ms
+candidates parse time : 6ms
+C# parse time         : 539ms
+candidates check time : 157ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:31:18 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.792ms
+moved types parse time: 143ms
+candidates parse time : 5ms
+C# parse time         : 528ms
+candidates check time : 160ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:31:44 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 186.814ms
+moved types parse time: 157ms
+candidates parse time : 6ms
+C# parse time         : 546ms
+candidates check time : 138ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:32:25 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 233.729ms
+moved types parse time: 131ms
+candidates parse time : 5ms
+C# parse time         : 506ms
+candidates check time : 126ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:32:34 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.741ms
+moved types parse time: 137ms
+candidates parse time : 7ms
+C# parse time         : 525ms
+candidates check time : 148ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:34:48 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.463ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 563ms
+candidates check time : 159ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:35:45 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 220.544ms
+moved types parse time: 147ms
+candidates parse time : 5ms
+C# parse time         : 567ms
+candidates check time : 158ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:35:53 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 125.301ms
+moved types parse time: 183ms
+candidates parse time : 6ms
+C# parse time         : 546ms
+candidates check time : 156ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:35:57 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.318ms
+moved types parse time: 135ms
+candidates parse time : 7ms
+C# parse time         : 528ms
+candidates check time : 144ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 10:36:55 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.51ms
+moved types parse time: 142ms
+candidates parse time : 11ms
+C# parse time         : 565ms
+candidates check time : 153ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:00:09 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 185.497ms
+moved types parse time: 140ms
+candidates parse time : 7ms
+C# parse time         : 550ms
+candidates check time : 194ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:01:25 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 189.548ms
+moved types parse time: 127ms
+candidates parse time : 4ms
+C# parse time         : 463ms
+candidates check time : 141ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:03:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.363ms
+moved types parse time: 144ms
+candidates parse time : 6ms
+C# parse time         : 512ms
+candidates check time : 155ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:07:34 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.013ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 516ms
+candidates check time : 148ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:08:09 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.213ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 533ms
+candidates check time : 167ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:08:56 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 198.024ms
+moved types parse time: 143ms
+candidates parse time : 6ms
+C# parse time         : 513ms
+candidates check time : 147ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:09:13 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 150.322ms
+moved types parse time: 144ms
+candidates parse time : 6ms
+C# parse time         : 516ms
+candidates check time : 154ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:11:49 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.081ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 550ms
+candidates check time : 147ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 04/11/2021 16:13:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.327ms
+moved types parse time: 152ms
+candidates parse time : 6ms
+C# parse time         : 514ms
+candidates check time : 133ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 05/11/2021 09:25:59 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 218.337ms
+moved types parse time: 144ms
+candidates parse time : 6ms
+C# parse time         : 581ms
+candidates check time : 142ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 05/11/2021 10:32:38 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 217.285ms
+moved types parse time: 142ms
+candidates parse time : 6ms
+C# parse time         : 543ms
+candidates check time : 164ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 05/11/2021 11:08:34 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.939ms
+moved types parse time: 135ms
+candidates parse time : 6ms
+C# parse time         : 517ms
+candidates check time : 138ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 05/11/2021 11:08:36 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 124.103ms
+moved types parse time: 129ms
+candidates parse time : 4ms
+C# parse time         : 474ms
+candidates check time : 131ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 05/11/2021 11:09:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.358ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 516ms
+candidates check time : 148ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 09:39:27 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.536ms
+moved types parse time: 143ms
+candidates parse time : 9ms
+C# parse time         : 574ms
+candidates check time : 140ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 09:47:21 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 166.225ms
+moved types parse time: 145ms
+candidates parse time : 6ms
+C# parse time         : 539ms
+candidates check time : 158ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 09:50:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.004ms
+moved types parse time: 154ms
+candidates parse time : 6ms
+C# parse time         : 498ms
+candidates check time : 120ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 09:50:04 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 122.992ms
+moved types parse time: 135ms
+candidates parse time : 6ms
+C# parse time         : 454ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 09:51:25 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.354ms
+moved types parse time: 148ms
+candidates parse time : 6ms
+C# parse time         : 434ms
+candidates check time : 77ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:08:05 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.819ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 437ms
+candidates check time : 102ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:08:58 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 173.011ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 391ms
+candidates check time : 73ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:09:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 190.127ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 390ms
+candidates check time : 72ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:10:04 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.699ms
+moved types parse time: 133ms
+candidates parse time : 6ms
+C# parse time         : 424ms
+candidates check time : 68ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:10:29 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.351ms
+moved types parse time: 142ms
+candidates parse time : 5ms
+C# parse time         : 381ms
+candidates check time : 63ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:10:55 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.732ms
+moved types parse time: 136ms
+candidates parse time : 4ms
+C# parse time         : 383ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:11:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 132.318ms
+moved types parse time: 138ms
+candidates parse time : 6ms
+C# parse time         : 401ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:11:21 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.585ms
+moved types parse time: 145ms
+candidates parse time : 5ms
+C# parse time         : 409ms
+candidates check time : 78ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:12:05 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.572ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 436ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:12:23 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.513ms
+moved types parse time: 155ms
+candidates parse time : 5ms
+C# parse time         : 411ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:12:32 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 143.488ms
+moved types parse time: 145ms
+candidates parse time : 5ms
+C# parse time         : 385ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:12:51 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.971ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 391ms
+candidates check time : 79ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:13:38 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 208.35ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 396ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:24:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 185.419ms
+moved types parse time: 170ms
+candidates parse time : 6ms
+C# parse time         : 427ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:27:27 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.522ms
+moved types parse time: 144ms
+candidates parse time : 6ms
+C# parse time         : 443ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:27:30 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 115.249ms
+moved types parse time: 133ms
+candidates parse time : 5ms
+C# parse time         : 371ms
+candidates check time : 72ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:29:29 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 188.183ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 369ms
+candidates check time : 66ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:30:14 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 184.88ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 375ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:31:23 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.008ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 382ms
+candidates check time : 77ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:41:20 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.992ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 396ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:41:47 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.873ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 397ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:42:05 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 157.876ms
+moved types parse time: 136ms
+candidates parse time : 4ms
+C# parse time         : 372ms
+candidates check time : 70ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:43:28 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.842ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 388ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:43:42 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.578ms
+moved types parse time: 149ms
+candidates parse time : 7ms
+C# parse time         : 448ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:43:44 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 149.943ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 348ms
+candidates check time : 62ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:44:27 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 234.598ms
+moved types parse time: 142ms
+candidates parse time : 6ms
+C# parse time         : 440ms
+candidates check time : 82ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:46:31 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.666ms
+moved types parse time: 158ms
+candidates parse time : 11ms
+C# parse time         : 440ms
+candidates check time : 83ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:47:03 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 210.995ms
+moved types parse time: 148ms
+candidates parse time : 5ms
+C# parse time         : 407ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:47:30 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 210.836ms
+moved types parse time: 137ms
+candidates parse time : 7ms
+C# parse time         : 400ms
+candidates check time : 72ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:48:26 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.124ms
+moved types parse time: 135ms
+candidates parse time : 6ms
+C# parse time         : 411ms
+candidates check time : 117ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:48:51 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.108ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 407ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:49:28 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.11ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 429ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:49:44 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 214.668ms
+moved types parse time: 141ms
+candidates parse time : 6ms
+C# parse time         : 419ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:50:37 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.934ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 365ms
+candidates check time : 65ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:55:34 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 190.937ms
+moved types parse time: 132ms
+candidates parse time : 5ms
+C# parse time         : 367ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:57:31 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 195.363ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 393ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:58:05 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 193.447ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 399ms
+candidates check time : 78ms
+console write time    : 6ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 10:58:12 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 123.716ms
+moved types parse time: 205ms
+candidates parse time : 6ms
+C# parse time         : 404ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:26:57 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.54ms
+moved types parse time: 144ms
+candidates parse time : 4ms
+C# parse time         : 366ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:28:41 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.553ms
+moved types parse time: 127ms
+candidates parse time : 5ms
+C# parse time         : 337ms
+candidates check time : 65ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:30:38 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 171.114ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 416ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:30:42 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142.277ms
+moved types parse time: 138ms
+candidates parse time : 6ms
+C# parse time         : 393ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:30:51 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 144.344ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 392ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:31:36 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163.454ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 371ms
+candidates check time : 64ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:33:43 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 172.903ms
+moved types parse time: 152ms
+candidates parse time : 7ms
+C# parse time         : 429ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:35:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.732ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 380ms
+candidates check time : 66ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:46:55 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 146.032ms
+moved types parse time: 132ms
+candidates parse time : 5ms
+C# parse time         : 385ms
+candidates check time : 70ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:47:47 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 269.464ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 376ms
+candidates check time : 68ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:49:12 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.672ms
+moved types parse time: 132ms
+candidates parse time : 5ms
+C# parse time         : 375ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:49:23 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.508ms
+moved types parse time: 127ms
+candidates parse time : 5ms
+C# parse time         : 365ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:49:56 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 206.634ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 384ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:50:50 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.998ms
+moved types parse time: 131ms
+candidates parse time : 7ms
+C# parse time         : 381ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:51:18 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 230.069ms
+moved types parse time: 167ms
+candidates parse time : 6ms
+C# parse time         : 459ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:51:24 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 128.57ms
+moved types parse time: 132ms
+candidates parse time : 6ms
+C# parse time         : 368ms
+candidates check time : 73ms
+console write time    : 0ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:52:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.475ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 391ms
+candidates check time : 71ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:52:38 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.608ms
+moved types parse time: 133ms
+candidates parse time : 5ms
+C# parse time         : 376ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:53:03 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.31ms
+moved types parse time: 148ms
+candidates parse time : 5ms
+C# parse time         : 434ms
+candidates check time : 84ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:53:14 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142.889ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 385ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:53:41 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.994ms
+moved types parse time: 132ms
+candidates parse time : 4ms
+C# parse time         : 419ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:54:31 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.321ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 395ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:55:32 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.432ms
+moved types parse time: 130ms
+candidates parse time : 4ms
+C# parse time         : 367ms
+candidates check time : 59ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:56:05 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 220.563ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 386ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:56:09 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 142.409ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 398ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:56:24 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 224.92ms
+moved types parse time: 133ms
+candidates parse time : 9ms
+C# parse time         : 393ms
+candidates check time : 85ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:56:28 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 147.473ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 381ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 11:59:17 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 193.458ms
+moved types parse time: 152ms
+candidates parse time : 6ms
+C# parse time         : 463ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:07:11 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.135ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 369ms
+candidates check time : 63ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:12:11 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.222ms
+moved types parse time: 128ms
+candidates parse time : 5ms
+C# parse time         : 369ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:13:02 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.183ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 405ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:13:33 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 167.887ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 400ms
+candidates check time : 73ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:13:42 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.338ms
+moved types parse time: 133ms
+candidates parse time : 7ms
+C# parse time         : 342ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:21:15 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 146.979ms
+moved types parse time: 137ms
+candidates parse time : 6ms
+C# parse time         : 370ms
+candidates check time : 84ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:21:27 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.686ms
+moved types parse time: 151ms
+candidates parse time : 6ms
+C# parse time         : 411ms
+candidates check time : 87ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:21:29 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 216.417ms
+moved types parse time: 147ms
+candidates parse time : 6ms
+C# parse time         : 385ms
+candidates check time : 78ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:24:24 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.237ms
+moved types parse time: 163ms
+candidates parse time : 6ms
+C# parse time         : 464ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:41:55 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 177.309ms
+moved types parse time: 142ms
+candidates parse time : 7ms
+C# parse time         : 405ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:42:31 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.876ms
+moved types parse time: 137ms
+candidates parse time : 7ms
+C# parse time         : 396ms
+candidates check time : 78ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:43:21 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.225ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 388ms
+candidates check time : 69ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:43:54 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.023ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 403ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:43:59 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 137.966ms
+moved types parse time: 131ms
+candidates parse time : 6ms
+C# parse time         : 430ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:44:18 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 158.523ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 374ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:44:34 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.077ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 398ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:45:20 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 169.141ms
+moved types parse time: 140ms
+candidates parse time : 5ms
+C# parse time         : 398ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:46:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 161.619ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 388ms
+candidates check time : 81ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:46:25 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 170.775ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 373ms
+candidates check time : 77ms
+console write time    : 3ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:46:45 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 171.29ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 397ms
+candidates check time : 68ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:47:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 215.415ms
+moved types parse time: 137ms
+candidates parse time : 6ms
+C# parse time         : 394ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:50:17 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 241.168ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 393ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:50:23 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 191.324ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 461ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:50:48 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 186ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 368ms
+candidates check time : 82ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:51:14 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.088ms
+moved types parse time: 133ms
+candidates parse time : 5ms
+C# parse time         : 425ms
+candidates check time : 87ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:52:55 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 187.759ms
+moved types parse time: 143ms
+candidates parse time : 6ms
+C# parse time         : 417ms
+candidates check time : 70ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:53:58 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.701ms
+moved types parse time: 146ms
+candidates parse time : 7ms
+C# parse time         : 400ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:54:29 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 207.43ms
+moved types parse time: 138ms
+candidates parse time : 6ms
+C# parse time         : 413ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:55:28 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 196.564ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 406ms
+candidates check time : 68ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:56:22 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 179.274ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 388ms
+candidates check time : 69ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:56:53 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 195.853ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 424ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:58:22 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 211.942ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 429ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:59:14 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 207.504ms
+moved types parse time: 145ms
+candidates parse time : 5ms
+C# parse time         : 423ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 14:59:34 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 171.799ms
+moved types parse time: 138ms
+candidates parse time : 6ms
+C# parse time         : 380ms
+candidates check time : 68ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:00:22 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 181.725ms
+moved types parse time: 131ms
+candidates parse time : 6ms
+C# parse time         : 351ms
+candidates check time : 68ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:01:27 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 233.268ms
+moved types parse time: 145ms
+candidates parse time : 7ms
+C# parse time         : 430ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:02:38 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 236.985ms
+moved types parse time: 125ms
+candidates parse time : 5ms
+C# parse time         : 378ms
+candidates check time : 70ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:03:02 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 230.566ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 391ms
+candidates check time : 72ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:09:25 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 183.219ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 383ms
+candidates check time : 78ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:09:50 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 200.305ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 464ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:09:56 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 174.112ms
+moved types parse time: 129ms
+candidates parse time : 5ms
+C# parse time         : 362ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:12:49 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 202.259ms
+moved types parse time: 149ms
+candidates parse time : 6ms
+C# parse time         : 443ms
+candidates check time : 86ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:15:10 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 206.932ms
+moved types parse time: 125ms
+candidates parse time : 5ms
+C# parse time         : 367ms
+candidates check time : 64ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 15:19:15 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 156.62ms
+moved types parse time: 131ms
+candidates parse time : 6ms
+C# parse time         : 384ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:21:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.68ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 403ms
+candidates check time : 68ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:21:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 135.538ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 382ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:23:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.418ms
+moved types parse time: 134ms
+candidates parse time : 5ms
+C# parse time         : 395ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:24:13 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.731ms
+moved types parse time: 139ms
+candidates parse time : 6ms
+C# parse time         : 381ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:24:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 128.401ms
+moved types parse time: 133ms
+candidates parse time : 6ms
+C# parse time         : 373ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:24:25 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 148.891ms
+moved types parse time: 137ms
+candidates parse time : 7ms
+C# parse time         : 375ms
+candidates check time : 76ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:24:40 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 162.428ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 400ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:25:28 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 194.027ms
+moved types parse time: 138ms
+candidates parse time : 7ms
+C# parse time         : 402ms
+candidates check time : 81ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:25:35 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 131.134ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 380ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:26:41 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 207.21ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 391ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:26:47 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 132.888ms
+moved types parse time: 135ms
+candidates parse time : 5ms
+C# parse time         : 368ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:27:16 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 218.253ms
+moved types parse time: 175ms
+candidates parse time : 6ms
+C# parse time         : 413ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:27:31 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 159.636ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 386ms
+candidates check time : 79ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:27:40 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 133.129ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 405ms
+candidates check time : 79ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:28:06 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 158.34ms
+moved types parse time: 140ms
+candidates parse time : 6ms
+C# parse time         : 413ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:29:01 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 175.476ms
+moved types parse time: 134ms
+candidates parse time : 4ms
+C# parse time         : 381ms
+candidates check time : 67ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:30:02 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 220.501ms
+moved types parse time: 144ms
+candidates parse time : 6ms
+C# parse time         : 426ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:30:39 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 217.895ms
+moved types parse time: 141ms
+candidates parse time : 5ms
+C# parse time         : 406ms
+candidates check time : 94ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:30:51 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 218.945ms
+moved types parse time: 138ms
+candidates parse time : 5ms
+C# parse time         : 399ms
+candidates check time : 77ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:40:36 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 245.66ms
+moved types parse time: 141ms
+candidates parse time : 6ms
+C# parse time         : 460ms
+candidates check time : 82ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 09/11/2021 16:42:26 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 232.08ms
+moved types parse time: 132ms
+candidates parse time : 5ms
+C# parse time         : 366ms
+candidates check time : 68ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 13:30:09 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 215.381ms
+moved types parse time: 203ms
+candidates parse time : 47ms
+C# parse time         : 573ms
+candidates check time : 98ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 14:11:12 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 232.793ms
+moved types parse time: 138ms
+candidates parse time : 4ms
+C# parse time         : 414ms
+candidates check time : 69ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 11/11/2021 14:11:14 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 164.082ms
+moved types parse time: 147ms
+candidates parse time : 6ms
+C# parse time         : 426ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 12/11/2021 10:28:58 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 446.239ms
+moved types parse time: 263ms
+candidates parse time : 12ms
+C# parse time         : 750ms
+candidates check time : 120ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:36:12 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 463.094ms
+moved types parse time: 159ms
+candidates parse time : 31ms
+C# parse time         : 488ms
+candidates check time : 70ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:39:31 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.901ms
+moved types parse time: 157ms
+candidates parse time : 6ms
+C# parse time         : 426ms
+candidates check time : 80ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:41:10 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 209.618ms
+moved types parse time: 142ms
+candidates parse time : 5ms
+C# parse time         : 413ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:41:39 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 180.523ms
+moved types parse time: 142ms
+candidates parse time : 7ms
+C# parse time         : 446ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:42:22 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 176.952ms
+moved types parse time: 137ms
+candidates parse time : 5ms
+C# parse time         : 394ms
+candidates check time : 66ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:42:45 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 210.532ms
+moved types parse time: 133ms
+candidates parse time : 5ms
+C# parse time         : 398ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:43:27 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 168.139ms
+moved types parse time: 157ms
+candidates parse time : 6ms
+C# parse time         : 451ms
+candidates check time : 77ms
+console write time    : 2ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:44:44 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 154.046ms
+moved types parse time: 136ms
+candidates parse time : 6ms
+C# parse time         : 380ms
+candidates check time : 74ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 10:45:08 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 155.205ms
+moved types parse time: 150ms
+candidates parse time : 5ms
+C# parse time         : 408ms
+candidates check time : 73ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:05:24 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.378ms
+moved types parse time: 125ms
+candidates parse time : 5ms
+C# parse time         : 349ms
+candidates check time : 62ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:05:46 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 165.585ms
+moved types parse time: 130ms
+candidates parse time : 5ms
+C# parse time         : 354ms
+candidates check time : 62ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:06:12 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 171.229ms
+moved types parse time: 135ms
+candidates parse time : 4ms
+C# parse time         : 381ms
+candidates check time : 63ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:06:59 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 188.117ms
+moved types parse time: 136ms
+candidates parse time : 5ms
+C# parse time         : 386ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:07:13 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 160.884ms
+moved types parse time: 150ms
+candidates parse time : 13ms
+C# parse time         : 440ms
+candidates check time : 87ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:07:19 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 153.83ms
+moved types parse time: 137ms
+candidates parse time : 6ms
+C# parse time         : 397ms
+candidates check time : 67ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:07:41 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 178.269ms
+moved types parse time: 142ms
+candidates parse time : 5ms
+C# parse time         : 418ms
+candidates check time : 82ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:12:08 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] Exception caught while loading types from /Users/thomasbaker/Documents/GitHub/TRPG Prototype 5/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll (some types may not be loaded)
+	Exception of type 'System.Reflection.ReflectionTypeLoadException' was thrown.
+	  at (wrapper managed-to-native) System.Reflection.Assembly.GetTypes(System.Reflection.Assembly,bool)
+  at System.Reflection.Assembly.GetTypes () [0x00000] in <695d1cc93cca45069c528c15c9fdd749>:0 
+  at APIUpdater.NonObsoleteApiUpdaterDetector.ExtraInfoParser+<LoadTypesWithMovedFromAttributeAsync>d__3.MoveNext () [0x000c8] in <6358200448ef46218e7be4a1b6be469f>:0 
+	Could not load file or assembly 'UnityEditor.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null' or one of its dependencies.
+
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 147.251ms
+moved types parse time: 139ms
+candidates parse time : 5ms
+C# parse time         : 442ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:13:36 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 163.883ms
+moved types parse time: 146ms
+candidates parse time : 5ms
+C# parse time         : 379ms
+candidates check time : 75ms
+console write time    : 1ms
+
+[api-updater (non-obsolete-error-filter)] 15/11/2021 11:14:33 : Starting /Users/thomasbaker/Documents/2020.3.21f1/Unity.app/Contents/Tools/ScriptUpdater/APIUpdater.NonObsoleteApiUpdaterDetector.exe
+[api-updater (non-obsolete-error-filter)] 
+----------------------------------
+jit/startup time      : 185.889ms
+moved types parse time: 134ms
+candidates parse time : 6ms
+C# parse time         : 395ms
+candidates check time : 77ms
+console write time    : 1ms
+

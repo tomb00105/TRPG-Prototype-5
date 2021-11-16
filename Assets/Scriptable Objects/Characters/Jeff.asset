@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76b5fbf76c2ca4ee7aaefe71a982962d, type: 3}
+  m_Name: Jeff
+  m_EditorClassIdentifier: 
+  characterSide: Enemy
+  characterName: Jeff
+  maxHP: 10
+  currentHP: 10
+  maxMP: 10
+  currentMP: 10
+  maxAP: 10
+  currentAP: 10
+  moves: 5
+  speed: 5
+  currentClass: {fileID: 11400000, guid: 33cc331565b4c4fabb016f9fec6841d9, type: 2}
+  actionPriority:
+  - {fileID: 11400000, guid: c6d38f5f376374ec69654eda73cd7d3d, type: 2}
+  ailments: []
+  forbiddenAilments: []
+  availableActionList:
+  - {fileID: 11400000, guid: c6d38f5f376374ec69654eda73cd7d3d, type: 2}
